@@ -31,3 +31,4 @@ public class Main {
                System.out.println("Divition of"+num1+"and"+num2+"is :"+div);
                break;   
        }
+    }
